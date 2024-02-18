@@ -7,7 +7,6 @@
 using namespace std;
 void ip:: create_window(int val){
     char *title;
-
     if(val==1)
         title="Bubble Sort";
     else if(val==2)
