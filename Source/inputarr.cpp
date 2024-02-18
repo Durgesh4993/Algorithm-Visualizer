@@ -31,6 +31,7 @@ void ip:: draw(vector<int> &arr,int size){
             x2+=50;
     }
 
+    
     x1=10;y1=50;x2=60;y2=100;
     int midy=y1+(y2-y1)/2,i=0;
     while(x2<=limit){
